@@ -1,2 +1,2 @@
 # Go_Practices
-Learning GO with rest API. 
+Learning Golang with rest API. 
